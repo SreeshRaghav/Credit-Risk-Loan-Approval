@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+scikit-fuzzy
+numpy
+scikit-learn
+joblib
+deap
